@@ -1,5 +1,6 @@
 ## Hi there 👋
 <div>
+  <img src="https://ghchart.rshah.org/219138/yejin0117"/>
   <img src="http://mazandi.herokuapp.com/api?handle=yejin0117&theme=warm"/>
 </div>
 
